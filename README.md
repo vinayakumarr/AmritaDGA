@@ -35,9 +35,20 @@ If you use this data set as part of your research, please cite the following pap
 
 6. Mohan, V. S., Vinayakumar, R., Soman, K. P., & Poornachandran, P. (2018, May). Spoof net: Syntactic patterns for identification of ominous online factors. In 2018 IEEE Security and Privacy Workshops (SPW) (pp. 258-263). IEEE.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Until now the following institutions were given access
+
+1. IIT Kanpur
+2. Savitribai Phule Pune University
+3. karpagam college of engineering Coimbatore
+4. SSN College of Engineering Coimbatore
+5. Punjabi University Patiala
+6. University of Washington Tacoma
+7. Vidya Academy of Science & Technology, Thrissur
+8. PES University India
+9. Vellore Institute of Technology Chennai
+10. Mangalore University
+11. University of Pisa
+12. Amrita school of engineering Coimbatore
 
 ### Support or Contact
 
