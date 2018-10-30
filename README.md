@@ -1,15 +1,15 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/vinayakumarr/AmritaDGA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+AmritaDGA data set is avilable for research. This data set is used as part of DMD2018(https://nlp.amrita.edu/DMD2018/) organized by Cybersecurity group at CEN(https://vinayakumarr.github.io/Cybersecurity-Lab-at-CEN/) as part of ICACCI'18(http://icacci-conference.org/2018/) and SSCC'18(http://www.acn-conference.org/sscc2018/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you use this data set as part of your research, please cite the following papers.
 
 ```markdown
-Syntax highlighted code block
+Data set name: AmritaDGA
 
 # Header 1
 ## Header 2
@@ -27,10 +27,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vinayakumarr/AmritaDGA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
