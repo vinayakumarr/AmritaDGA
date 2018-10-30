@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-AmritaDGA data set is avilable for research. This data set is used as part of DMD2018(https://nlp.amrita.edu/DMD2018/) organized by Cybersecurity group at CEN(https://vinayakumarr.github.io/Cybersecurity-Lab-at-CEN/) as part of ICACCI'18(http://icacci-conference.org/2018/) and SSCC'18(http://www.acn-conference.org/sscc2018/).
+AmritaDGA data set is avilable for research. This data set is used as part of [DMD2018](https://nlp.amrita.edu/DMD2018/) organized by [Cybersecurity group at CEN](https://vinayakumarr.github.io/Cybersecurity-Lab-at-CEN/) as part of [ICACCI'18](http://icacci-conference.org/2018/) and [SSCC'18](http://www.acn-conference.org/sscc2018/).
 
 
 
