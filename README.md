@@ -1,16 +1,16 @@
-## Welcome to GitHub Pages
+## AmritaDGA
 
 To advance research on Detecting domain generation algorithms (DGA) generated domain name and to enable a comparison of different detection approaches, we make the dataset, AmritaDGA from our project [Detecting malicious domain names](https://www.researchgate.net/project/Detecting-malicious-domain-names) publicy available. AmritaDGA data set is avilable for research. This data set is used as part of [DMD2018](https://nlp.amrita.edu/DMD2018/) organized by [Cybersecurity group at CEN](https://vinayakumarr.github.io/Cybersecurity-Lab-at-CEN/) as part of [ICACCI'18](http://icacci-conference.org/2018/) and [SSCC'18](http://www.acn-conference.org/sscc2018/). The baseline system and detailed statistics of the data set is avilable [here](). You can find more details on the dataset in the DMD2018 System Description paper.
 
 We are happy to share our AmritaDGA dataset. However, in order to prevent any misuse, we kindly ask you to send us a mail to vinayakumarr77[at]gmail.com stating your identity and research scope. We will then send you the login credentials.
 
-If you are in academia
+# If you are in academia
 
 1. If you are a student, please ask your advisor to send us an email for the access. If you are a faculty, please send us the email from your university's email account.
 
 2. In your email, please include your name, affiliation, and homepage The information is needed for verification purpose. Note that your request may be ignored if we are not able to determine your identity or affiliation.
 
-If you are currently in industry
+# If you are currently in industry
 
 1. Please send us an email from your company's email account. Please briefly introduce yourself (e.g., name) and your company in that mail.
 
