@@ -4,12 +4,12 @@ AmritaDGA data set is avilable for research. This data set is used as part of [D
 
 
 
-### Markdown
+### References
 
 If you use this data set as part of your research, please cite the following papers.
 
-```markdown
-Data set name: AmritaDGA
+
+### Data set name: AmritaDGA
 
 1. Vinayakumar, R., Poornachandran, P., & Soman, K. P. (2018). Scalable Framework for Cyber Threat Situational Awareness Based on Domain Name Systems Data Analysis. In Big Data in Engineering Applications (pp. 113-142). Springer, Singapore.
 
@@ -19,7 +19,7 @@ Data set name: AmritaDGA
 
 4. Mohan, V. S., Vinayakumar, R., Soman, K. P., & Poornachandran, P. (2018, May). Spoof net: Syntactic patterns for identification of ominous online factors. In 2018 IEEE Security and Privacy Workshops (SPW) (pp. 258-263). IEEE.
 
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
