@@ -23,17 +23,17 @@ If you use this data set as part of your research, please cite the following pap
 
 ### Data set name: AmritaDGA
 
-1. DMD2018 System Description paper: Vinayakumar R Soman KP, Prabaharan Poornachandran, Jyothsna P V, Amara Dinesh Kumar, Mamoun Alazab, and Sabu M. Thampi, AmritaDGA: A Comprehensive Data set for Domain Generation Algorithms (DGAs). In Big Data Recommender Systems: Recent Trends and Advances, Institution of Engineering and Technology (IET)
+1. DMD2018 System Description paper: [Vinayakumar R](https://vinayakumarr.github.io/), Soman KP, Prabaharan Poornachandran, Jyothsna P V, Amara Dinesh Kumar, Mamoun Alazab, and Sabu M. Thampi, AmritaDGA: A Comprehensive Data set for Domain Generation Algorithms (DGAs). In Big Data Recommender Systems: Recent Trends and Advances, Institution of Engineering and Technology (IET)
 
-2. Vinayakumar, R., Poornachandran, P., & Soman, K. P. (2018). Scalable Framework for Cyber Threat Situational Awareness Based on Domain Name Systems Data Analysis. In Big Data in Engineering Applications (pp. 113-142). Springer, Singapore.
+2. ,Vinayakumar, R.](https://vinayakumarr.github.io/), Poornachandran, P., & Soman, K. P. (2018). Scalable Framework for Cyber Threat Situational Awareness Based on Domain Name Systems Data Analysis. In Big Data in Engineering Applications (pp. 113-142). Springer, Singapore.
 
-3. Vinayakumar, R., Soman, K. P., & Poornachandran, P. (2018). Detecting malicious domain names using deep learning approaches at scale. Journal of Intelligent & Fuzzy Systems, 34(3), 1355-1367.
+3. [Vinayakumar, R.](https://vinayakumarr.github.io/), Soman, K. P., & Poornachandran, P. (2018). Detecting malicious domain names using deep learning approaches at scale. Journal of Intelligent & Fuzzy Systems, 34(3), 1355-1367.
 
-4. Vinayakumar, R., Soman, K. P., Poornachandran, P., & Sachin Kumar, S. (2018). Evaluating deep learning approaches to characterize and classify the DGAs at scale. Journal of Intelligent & Fuzzy Systems, 34(3), 1265-1276.
+4. [Vinayakumar, R.](https://vinayakumarr.github.io/), Soman, K. P., Poornachandran, P., & Sachin Kumar, S. (2018). Evaluating deep learning approaches to characterize and classify the DGAs at scale. Journal of Intelligent & Fuzzy Systems, 34(3), 1265-1276.
 
-5. Vinayakumar R, Soman KP, Prabaharan Poornachandran, Vysakh S Mohan, Amara Dinesh, ScaleNet: Scalable and Hybrid Framework for Cyber Threat Situational Awareness based on DNS, URL, and Email Data Analysis. In Journal of Cyber Security and Mobility
+5. [Vinayakumar R](https://vinayakumarr.github.io/), Soman KP, Prabaharan Poornachandran, Vysakh S Mohan, Amara Dinesh, ScaleNet: Scalable and Hybrid Framework for Cyber Threat Situational Awareness based on DNS, URL, and Email Data Analysis. In Journal of Cyber Security and Mobility
 
-6. Mohan, V. S., Vinayakumar, R., Soman, K. P., & Poornachandran, P. (2018, May). Spoof net: Syntactic patterns for identification of ominous online factors. In 2018 IEEE Security and Privacy Workshops (SPW) (pp. 258-263). IEEE.
+6. Mohan, V. S., [Vinayakumar, R.](https://vinayakumarr.github.io/), Soman, K. P., & Poornachandran, P. (2018, May). Spoof net: Syntactic patterns for identification of ominous online factors. In 2018 IEEE Security and Privacy Workshops (SPW) (pp. 258-263). IEEE.
 
 ### Until now the following institutions were given access
 
