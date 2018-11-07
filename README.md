@@ -27,7 +27,7 @@ If you use this data set as part of your research, please cite the following pap
 
 2. [Vinayakumar, R.](https://vinayakumarr.github.io/), Poornachandran, P., & Soman, K. P. (2018). Scalable Framework for Cyber Threat Situational Awareness Based on Domain Name Systems Data Analysis. In Big Data in Engineering Applications (pp. 113-142). Springer, Singapore.
 
-3. [Vinayakumar, R.](https://vinayakumarr.github.io/), Soman, K. P., & Poornachandran, P. A deep-dive on Machine learning for Cybersecurity use cases. Machine Learning for Computer and Cyber Security: Principle, Algorithms, and Practices, CRC press [In Press]
+3. [Vinayakumar, R.](https://vinayakumarr.github.io/), Soman, K. P., Poornachandran, P. & vijay krishna menon A deep-dive on Machine learning for Cybersecurity use cases. Machine Learning for Computer and Cyber Security: Principle, Algorithms, and Practices, CRC press [In Press]
 
 4. [Vinayakumar, R.](https://vinayakumarr.github.io/), Soman, K. P., & Poornachandran, P. (2018). Detecting malicious domain names using deep learning approaches at scale. Journal of Intelligent & Fuzzy Systems, 34(3), 1355-1367.
 
