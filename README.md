@@ -25,7 +25,9 @@ If you use this data set as part of your research, please cite the following pap
 
 ### DMD2018 System Description paper: 
 
-[Vinayakumar R](https://vinayakumarr.github.io/), Soman KP, Prabaharan Poornachandran, Jyothsna P V, Amara Dinesh Kumar, Mamoun Alazab, and Sabu M. Thampi, AmritaDGA: A Comprehensive Data set for Domain Generation Algorithms (DGAs). In Big Data Recommender Systems: Recent Trends and Advances, Institution of Engineering and Technology (IET) [In Press]
+1. [Vinayakumar R](https://vinayakumarr.github.io/), Soman KP, Prabaharan Poornachandran, Jyothsna P V, Amara Dinesh Kumar, Mamoun Alazab, and Sabu M. Thampi, AmritaDGA: A Comprehensive Data set for Domain Generation Algorithms (DGAs). In Big Data Recommender Systems: Recent Trends and Advances, Institution of Engineering and Technology (IET) [In Press]
+
+### Other Related papers in DNS data analysis: 
 
 2. [Vinayakumar, R.](https://vinayakumarr.github.io/), Poornachandran, P., & Soman, K. P. (2018). Scalable Framework for Cyber Threat Situational Awareness Based on Domain Name Systems Data Analysis. In Big Data in Engineering Applications (pp. 113-142). Springer, Singapore.
 
