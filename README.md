@@ -59,6 +59,7 @@ If you use this data set as part of your research, please cite the following pap
 14. CMC InfoSec Corp, VietNam
 15. Akamai Technologies
 16. Department of Communications and Information Engineering, University of Murcia (Spain)
+17. Kansas State University, Manhattan
 
 ### Support or Contact
 
