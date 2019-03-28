@@ -61,6 +61,7 @@ If you use this data set as part of your research, please cite the following pap
 16. Department of Communications and Information Engineering, University of Murcia (Spain)
 17. Kansas State University, Manhattan
 18. University of Science and Technology Houari Boumediene, University in Bab Ezzouar, Algeria
+19. Georgia Institute of Technology, Atlanta, Georgia
 
 ### Support or Contact
 
