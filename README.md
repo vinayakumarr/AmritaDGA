@@ -25,7 +25,7 @@ If you use this data set as part of your research, please cite the following pap
 
 ### DMD2018 System Description paper: 
 
-1. [Vinayakumar R](https://vinayakumarr.github.io/), Soman KP, Prabaharan Poornachandran, Mamoun Alazab, and Sabu M. Thampi, [AmritaDGA: A Comprehensive Data set for Domain Generation Algorithms (DGAs)]. (https://www.researchgate.net/publication/334570954_AmritaDGA_a_comprehensive_data_set_for_domain_generation_algorithms_DGAs_based_domain_name_detection_systems_and_application_of_deep_learning) In Big Data Recommender Systems: Recent Trends and Advances, Institution of Engineering and Technology (IET)
+1. [Vinayakumar R](https://vinayakumarr.github.io/), Soman KP, Prabaharan Poornachandran, Mamoun Alazab, and Sabu M. Thampi, [AmritaDGA: A Comprehensive Data set for Domain Generation Algorithms (DGAs)] (https://www.researchgate.net/publication/334570954_AmritaDGA_a_comprehensive_data_set_for_domain_generation_algorithms_DGAs_based_domain_name_detection_systems_and_application_of_deep_learning) In Big Data Recommender Systems: Recent Trends and Advances, Institution of Engineering and Technology (IET)
 
 ### Other Related papers in DNS data analysis: 
 
