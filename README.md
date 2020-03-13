@@ -68,7 +68,7 @@ If you use this data set as part of your research, please cite the following pap
 23. Shahrood University of Technology, Iran
 24. NMIMS University,Mumbai, India
 25. Center for Cybersecurity, Rochester Institute of Technology, USA
-26. Ramaiah Institute of Technology
+26. Ramaiah Institute of Technology, Bengaluru, India
 
 ### Support or Contact
 
