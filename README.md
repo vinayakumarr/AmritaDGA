@@ -76,6 +76,7 @@ If you use this data set as part of your research, please cite the following pap
 31. Graduate University of Science and Technology, Vietnam.
 32. Hitachi Systems Security Inc (HISYS-SEC), Blainville (QUÉBEC), Canada.
 33. University of Chinese Academy of Sciences, Beijing, China.
+34. Kumamoto University, Japan
 
 ### Support or Contact
 
